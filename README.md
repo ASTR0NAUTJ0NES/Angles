@@ -1,7 +1,7 @@
 # Angles
 
 ## Description 
-	- Java Program that reads in an angle of any size (positive or negative) normalizes it, and prints it out.For example, the input of 380 should print 20, and the input of -30 should return 330. All variables should be of type int.
+	- Java Program that reads in an angle of any size (positive or negative) normalizes it, and prints it out. For example, the input of 380 should print 20, and the input of -30 should return 330. All variables should be of type int.
 ## Version 
 	- 1.0
 ## Author 
