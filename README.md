@@ -8,6 +8,7 @@
 	- Andrew Peyton Albanese
 ## Instructions 
 	- run the program
+	  enter the number of degrees of an angle
 ## File list 
 	- Angles.class
 	  Angles.ctxt
